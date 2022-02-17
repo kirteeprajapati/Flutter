@@ -1,2 +1,1 @@
-so 
-some stuff added
+deleted
