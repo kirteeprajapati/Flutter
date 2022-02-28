@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main()=> runApp(MaterialApp(
     home: Home(),
 ));
-  class Home extends StatelessWidget {       //cannot change over time
+  class Home extends StatelessWidget {       //cannot change over time stateless
     @override
     Widget build(BuildContext context) {
       return Scaffold(
